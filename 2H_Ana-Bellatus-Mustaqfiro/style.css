@@ -1,0 +1,91 @@
+body {
+    background: powderblue;
+    font-family: Helvetica;
+}
+
+h2 {
+    text-align: center;
+    font-size: 30px;
+}
+
+hr {
+    border: 1px solid gray;
+}
+
+.bio {
+    background: whitesmoke;
+    margin: 10px;
+    padding: 15px;
+    height: 170px;
+    width: 400px;
+}
+
+#profile{
+    width: 170px;
+    height: 170px;
+    float: left;
+    margin-right: 20px;
+}
+
+.bio1Text{
+    line-height: 2px;
+    position: absolute;
+}
+
+h6{
+    color: gray;
+}
+
+.sosmed{
+    background: whitesmoke;
+    width: 170px;
+    height: 170px;
+    padding: 15px;
+}
+
+#title{
+    text-align: center;
+}
+
+a:hover{
+    color: yellowgreen;
+}
+
+#info{
+    background: whitesmoke;
+    margin: 10px;
+    padding: 15px;
+}
+
+#form{
+    background-color: whitesmoke;
+    padding: 10px;
+    padding-left: 20px;
+}
+
+#copy{
+    position: fixed;
+    right: 0;
+    bottom: 0;
+}
+
+.more{
+    background: whitesmoke;
+    margin-left: 400px;
+    margin-right: 400px;
+    margin-top: 50px;
+    padding: 15px;
+    height: 650px;
+}
+
+.polinema{
+    width: 350px;
+    float: left;
+    margin: 15px;
+}
+
+.bts{
+    width: 350px;
+    float: right;
+    margin: 15px;
+}
